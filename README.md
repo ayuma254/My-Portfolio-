@@ -28,5 +28,14 @@ Consultant
           <h1>Hello <br> I'm 
 <span class="green">Titorials</span>Point.</span>
           </h1>
+          <p class="demo2">From concept to deployment,I bring ideas<br>to life as a versatile full stack developer...
+          </p>
+          <button type="button" class="button-lrn">
+            LEARN MORE 
+          </button>
+          <button type="button" class="button-hire">
+            HIRE ME
+          </button>
+        </div>
 </body>
 </html>
