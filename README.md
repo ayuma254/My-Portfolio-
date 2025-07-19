@@ -7,16 +7,26 @@
     <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
-  <header>
-    <h1>My Portfolio</h1>
+  <div class="header">
     <nav>
       <ul>
-        <li><a href="#about">About </a></li>
-        <li><a href="#project">Project</a></li>
-        <li><a href="skills">Skills</a></li>
-        <li><a href="contact">Contact</a></li>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">PROJECT</a></li>
+        <li><a href="#">SKILLS</a></li>
+        <li><a href="#">CONTACT</a></li>
+        <li><button type="button" class="button-gfc">
+          Get Free 
+Consultant 
+        </button>
+        </li><button type="button" class="button-cv>
+      DOWNLOAD CV</button></li>
       </ul>
     </nav>
-  </header>
+  <div class="body">
+          <p class="demo1">GET EVERY SINGLE SOLUTION.</p>
+          <h1>Hello <br> I'm 
+<span class="green">Titorials</span>Point.</span>
+          </h1>
 </body>
 </html>
