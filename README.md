@@ -6,8 +6,14 @@
     <title>My Portfolio</title>
     <link rel="stylesheet" href="styles.css"/>
 </head>
-<body>
-  <header>
+<body>{
+  font-family:Arial,sans-serif;
+  margin:0
+  padding:0
+  text-align:center
+  }
+  <header>{
+    background 
     <h1>My Portfolio</h1>
   <div class="header">
     <nav>
