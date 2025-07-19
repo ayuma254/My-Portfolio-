@@ -15,27 +15,28 @@
         <li><a href="#">PROJECT</a></li>
         <li><a href="#">SKILLS</a></li>
         <li><a href="#">CONTACT</a></li>
-        <li><button type="button" class="button-gfc">
-          Get Free 
-Consultant 
-        </button>
-        </li><button type="button" class="button-cv>
-      DOWNLOAD CV</button></li>
-      </ul>
-    </nav>
-  <div class="body">
-          <p class="demo1">GET EVERY SINGLE SOLUTION.</p>
-          <h1>Hello <br> I'm 
-<span class="green">Titorials</span>Point.</span>
-          </h1>
-          <p class="demo2">From concept to deployment,I bring ideas<br>to life as a versatile full stack developer...
-          </p>
-          <button type="button" class="button-lrn">
-            LEARN MORE 
-          </button>
-          <button type="button" class="button-hire">
-            HIRE ME
-          </button>
-        </div>
+    <section id="About">
+      <h2>About Me</h2>
+      <p>Hello! I'm a web developer passionate about building user-friendly website.</p>
+    </section>
+        <section id="Project">
+          <h2>Project</h2>
+          <p>Here are some of my projects:</p>
+          <ul>
+            <li>Project1:Portfolio Website</li>
+            <li>Project2:To-Do List App</li>
+          </ul>
+          <section id="Skills">
+            <h2>Skills</h2>
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+            </ul>
+          </section>
+          <section id="contact">
+            <h2>Contact</h2> 
+            <p>Email:example@email.com</p>
+          </section>
 </body>
 </html>
