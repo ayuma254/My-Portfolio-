@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
+  <header>
+    <h1>My Portfolio</h1>
   <div class="header">
     <nav>
       <ul>
@@ -14,7 +16,7 @@
         <li><a href="#">ABOUT</a></li>
         <li><a href="#">PROJECT</a></li>
         <li><a href="#">SKILLS</a></li>
-        <li><a href="#">CONTACT</a></li>
+        <li><a href="#">CONTACT</a></li></header>
     <section id="About">
       <h2>About Me</h2>
       <p>Hello! I'm a web developer passionate about building user-friendly website.</p>
