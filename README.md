@@ -7,13 +7,7 @@
     <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>{
-  font-family:Arial,sans-serif;
-  margin:0
-  padding:0
-  text-align:center
-  }
-  <header>{
-    background 
+  <header>
     <h1>My Portfolio</h1>
   <div class="header">
     <nav>
