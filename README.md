@@ -23,7 +23,7 @@
     </section>
         <section id="Project">
           <h2>Project</h2>
-          <p>Here are some of my projects:</p>
+          <p>Here are  my projects:</p>
           <ul>
             <li>Project1:Portfolio Website</li>
             <li>Project2:To-Do List App</li>
