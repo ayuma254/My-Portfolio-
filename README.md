@@ -6,7 +6,7 @@
     <title>My Portfolio</title>
 </head>
     <style>
-<body>{
+body{
   font-family:Arial,sans-serif;
   margin:10;
   padding:10;
