@@ -4,6 +4,7 @@
   <meta charset="UTF-8"/>
   <<meta name="viewport" content="width=device-width, initial-scale=1.5"/>
     <title>My Portfolio</title>
+    <link rel="stylessheet"href="styles.css">
 </head>
     <body>
     <h1>Portfolio</h1>
