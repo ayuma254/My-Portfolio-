@@ -5,27 +5,7 @@
   <<meta name="viewport" content="width=device-width, initial-scale=1.5"/>
     <title>My Portfolio</title>
 </head>
-    <style>
-body{
-  font-family:Arial,sans-serif;
-  margin:10;
-  padding:10;
-  background-color:blue;
-  }
-  .inro-section{
-  text-align:center;
-  padding:100px 20px;
-  background-color:white;
-  }
-  .intro-section h1{
-  font-size:36px;
-  margin-bottom:10px;
-  }
-  .intro-section p{
-  font-size:18px;
-  }
-  </style>
-  <header>
+    <body>
     <h1>Portfolio</h1>
   <div class="header">
     <nav>
